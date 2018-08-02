@@ -8,4 +8,3 @@ function makeid() {
   return text;
 }
 
-console.log(makeid());
